@@ -11,3 +11,11 @@ Don't email workshop authors directly, use the public discussion forum (the Issu
 ## 3 - Be patient
 
 It may take a day or two for people to respond here. Please don't send multiple messages in a row, it won't help your question get answered any faster.
+
+# Suggestions
+
+## Provide full command output
+
+To help us debug your problem please include all output from the commands you ran, including any error messages you received.
+
+It also helps to include your node, npm, git or other CLI command versions, which you can get by running `node -v`, `npm -v` etc.
