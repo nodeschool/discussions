@@ -3,6 +3,8 @@ discussions
 
 need help? or just wanna ask a question? [open an issue](https://github.com/nodeschool/discussions/issues) on this repo!
 
+NodeSchool organizers can have discussions [over here](https://github.com/nodeschool/organizers). If you want to create your own NodeSchool workshop, have a look at the [workshoppers repo](https://github.com/nodeschool/workshoppers).
+
 # NodeSchool Discussions Rules
 
 ## 1 - Be nice
