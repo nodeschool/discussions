@@ -70,6 +70,7 @@ Only [owners](https://github.com/orgs/nodeschool/teams/owners) can add labels to
 
 | Label | Meaning |
 | ----- | ------- |
+| [bikeshedding](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Abikeshedding) | This issue is kept open in case someone wants to jump in. It should be updated every now and then (~14days). |
 | [contains hints for improvements](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Acontains-hint-for-improvement) | This contains hints on how a workshopper/tutorial/website etc. can be improved. The issue should be closed when the improvement was added to the content in question as a [PR](https://help.github.com/articles/using-pull-requests/) or issue. |
 | [general node.js](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Ageneral-node.js) | This is a question not specific to a content in this repository but rather to node.js in general. |
 | [installation](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Ainstallation) | This is an issue with the installation of node or a workshopper. |
