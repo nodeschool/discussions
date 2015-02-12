@@ -9,8 +9,12 @@
 &nbsp;<a href="#suggestions">Suggestions</a><br/>
 &nbsp;&nbsp;<a href="#check-your-installation">Check your installation</a><br/>
 &nbsp;&nbsp;<a href="#provide-full-command-output">Provide full command output</a><br/>
+&nbsp;&nbsp;<a href="#use-markdown">Use markdown</a><br/>
+&nbsp;&nbsp;<a href="#say-thanks">Say thanks!</a><br/>
+&nbsp;&nbsp;<a href="#close-your-issue">Close your issue</a><br/>
+&nbsp;&nbsp;<a href="#bikeshedding">Bikeshedding</a><br/>
 <a href="#about-labels">About Labels</a><br/>
-<a href="#answer-issues">Answer Issues</a><br/>
+<a href="#answering-issues">Answering Issues</a><br/>
 &nbsp;<a href="#use-links">Use links</a><br/>
 &nbsp;<a href="#end-with-a-question">End with a question</a><br/>
 &nbsp;<a href="#reformat-issues">Reformat issues</a><br/>
@@ -50,6 +54,22 @@ To help us debug your problem please include all output from the commands you ra
 
 It also helps to include your node, npm, git or other CLI command versions, which you can get by running `node -v`, `npm -v` etc.
 
+### Use markdown
+
+Github offers a lot of support to [format your issue](https://help.github.com/articles/github-flavored-markdown/). It makes it easier for other people to understand your problem.
+
+### Say thanks!
+
+The person that helped you did it out of the kindness of her/his heart. Tell your appreciation to her/him by saying thanks!
+
+### Close your issue
+
+If you don't close your issue, another person will have to clean it up later.
+
+### Bikeshedding
+
+Its okay to [bikeshed](http://en.wiktionary.org/wiki/bikeshedding) issues but if you do it would be nice to update it every 14days or so to let people know you still have interest.
+
 # About Labels
 
 Only [owners](https://github.com/orgs/nodeschool/teams/owners) can add labels to the dicussions issues. We added a lot of labels that makes it easier for contributors to understand the content of an issue. Here is their intended meaning:
@@ -70,7 +90,7 @@ If you want to add labels to issues, don't be afraid to ask for permissions. Its
 
 If you have an issue that doesn't match a label, feel free to add a label and describe it here.
 
-# Answer Issues
+# Answering Issues
 
 Owner or not: If you have an answer to a question please don't hesitate to add a comment. There are people who answer issues regularily but those are also volunteers and also only try to do their best.
 
