@@ -1,25 +1,10 @@
 <sub>
 <b>TOC</b><br/>
-<a href="#when-you-have-a-problem">When you have a problem</a><br/>
-&nbsp;<a href="#in-general">In general</a><br/>
-&nbsp;&nbsp;<a href="#1---be-nice">1 - Be nice</a><br/>
-&nbsp;&nbsp;<a href="#2---be-public">2 - Be public</a><br/>
-&nbsp;&nbsp;<a href="#3---be-patient">3 - Be patient</a><br/>
-&nbsp;&nbsp;<a href="#4---non-english-is-okay">4 - Non-English is okay</a><br/>
-&nbsp;<a href="#suggestions">Suggestions</a><br/>
-&nbsp;&nbsp;<a href="#check-your-installation">Check your installation</a><br/>
-&nbsp;&nbsp;<a href="#provide-full-command-output">Provide full command output</a><br/>
-&nbsp;&nbsp;<a href="#use-markdown">Use markdown</a><br/>
-&nbsp;&nbsp;<a href="#say-thanks">Say thanks!</a><br/>
-&nbsp;&nbsp;<a href="#close-your-issue">Close your issue</a><br/>
-&nbsp;&nbsp;<a href="#bikeshedding">Bikeshedding</a><br/>
-<a href="#about-labels">About Labels</a><br/>
-<a href="#answering-issues">Answering Issues</a><br/>
-&nbsp;<a href="#use-links">Use links</a><br/>
-&nbsp;<a href="#end-with-a-question">End with a question</a><br/>
-&nbsp;<a href="#reformat-issues">Reformat issues</a><br/>
-&nbsp;<a href="#apply-priorities">Apply priorities</a><br/>
-&nbsp;<a href="#close-issues">Close issues</a><br/>
+<b><a href="#when-you-have-a-problem">When you have a problem</a><br/></b>
+&nbsp;<b><a href="#in-general">In general</a>:</b> <a href="#1---be-nice">1 - Be nice</a>, <a href="#2---be-public">2 - Be public</a>, <a href="#3---be-patient">3 - Be patient</a>, <a href="#4---non-english-is-okay">4 - Non-English is okay</a><br/>
+&nbsp;<b><a href="#suggestions">Suggestions</a>:</b> <a href="#check-your-installation">Check your installation</a>, <a href="#provide-full-command-output">Provide full command output</a>, <a href="#use-markdown">Use markdown</a>, <a href="#say-thanks">Say thanks!</a>, <a href="#close-your-issue">Close your issue</a>, <a href="#bikeshedding">Bikeshedding</a><br/>
+<b><a href="#about-labels">About Labels</a><br/></b>
+<b><a href="#answering-issues">Answering Issues</a>:</b> <a href="#use-links">Use links</a>, <a href="#end-with-a-question">End with a question</a>, <a href="#reformat-issues">Reformat issues</a>, <a href="#apply-priorities">Apply priorities</a>, <a href="#close-issues">Close issues</a>
 </sub>
 
 # When you have a problem:
