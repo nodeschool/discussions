@@ -1,3 +1,23 @@
+<sub>
+<b>TOC</b><br/>
+<a href="#when-you-have-a-problem">When you have a problem</a><br/>
+&nbsp;<a href="#in-general">In general</a><br/>
+&nbsp;&nbsp;<a href="#1---be-nice">1 - Be nice</a><br/>
+&nbsp;&nbsp;<a href="#2---be-public">2 - Be public</a><br/>
+&nbsp;&nbsp;<a href="#3---be-patient">3 - Be patient</a><br/>
+&nbsp;&nbsp;<a href="#4---non-english-is-okay">4 - Non-English is okay</a><br/>
+&nbsp;<a href="#suggestions">Suggestions</a><br/>
+&nbsp;&nbsp;<a href="#check-your-installation">Check your installation</a><br/>
+&nbsp;&nbsp;<a href="#provide-full-command-output">Provide full command output</a><br/>
+<a href="#about-labels">About Labels</a><br/>
+<a href="#answer-issues">Answer Issues</a><br/>
+&nbsp;<a href="#use-links">Use links</a><br/>
+&nbsp;<a href="#end-with-a-question">End with a question</a><br/>
+&nbsp;<a href="#reformat-issues">Reformat issues</a><br/>
+&nbsp;<a href="#apply-priorities">Apply priorities</a><br/>
+&nbsp;<a href="#close-issues">Close issues</a><br/>
+</sub>
+
 # When you have a problem:
 
 ## In general
@@ -60,7 +80,7 @@ It is not necessary to follow this but there are some things that we found usefu
 
 Many questions are similar. If you can link to other issues or web content that makes your life easier. Keep in mind that the other person still needs an explanation why you give this link.
 
-## Your answer should end with a question.
+## End with a question
 
 If you add a question at the end it puts the ball back to the inital questionee and indicates that you think that this comment should fix the issue of the person. i.e.:
 
