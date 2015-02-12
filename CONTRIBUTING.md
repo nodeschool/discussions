@@ -60,11 +60,11 @@ Github offers a lot of support to [format your issue](https://help.github.com/ar
 
 ### Say thanks!
 
-The person that helped you did it out of the kindness of her/his heart. Tell your appreciation to her/him by saying thanks!
+The person that helped you did it out of the kindness of her/his heart. Tell your appreciation by saying thanks :smile: !
 
 ### Close your issue
 
-If you don't close your issue, another person will have to clean it up later.
+If you don't close your issue another person will have to clean it up later.
 
 ### Bikeshedding
 
