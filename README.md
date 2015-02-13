@@ -18,6 +18,8 @@ NodeSchool organizers can have discussions [over here](https://github.com/nodesc
 
 # When you have a problem:
 
+:point_right: [**Check out the FAQ!**](FAQ.md) :point_left:
+
 ## In general
 
 ### 1 - Be nice
