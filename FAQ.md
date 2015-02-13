@@ -16,7 +16,7 @@
 
 ### I installed Node.js but when I type `node` in my terminal it says `'node' is not recognized` (or `node: command not found`)
 
-It's likely that you have a problem with your installation. Go through the installation steps again and if you still have the problem, open an issue telling us exactly which steps did you followed to install Node.
+It's likely that you have a problem with your installation. Go through the installation steps again and if you still have the problem, open an issue telling us exactly which steps you followed to install Node.
 
 ### I have Node.js installed but when I type `javascripting` in my terminal it shows an error
 
