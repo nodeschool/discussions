@@ -114,7 +114,7 @@ Owners can edit issues. It is often not a good idea to change the issues but add
 
 In case you feel confident to answer multiple issues it might be a good idea to follow priorities. An example for priorities might be:
 
-1. [Issues with no labels](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen++labels+): Add labels
+1. [Issues with no labels](https://github.com/nodeschool/discussions/issues?q=is%3Aopen+is%3Aissue+no%3Alabel): Add labels
 2. [Issues with no comments](https://github.com/nodeschool/discussions/issues?q=is%3Aopen+is%3Aissue+comments%3A0+): Think of an answer
 3. [Issues that are least recently updated](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+no%3Alabels): Add the `waiting-for-response` label in case its not given and ask a question in case none has been asked.
 4. [Issues that `need-some-love`](https://github.com/nodeschool/discussions/issues?q=is%3Aopen+is%3Aissue+label%3Aneeds-some-love): Try to think how to resolve those because they need your love!
