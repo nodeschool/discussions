@@ -118,7 +118,7 @@ In case you feel confident to answer multiple issues it might be a good idea to 
 2. [Issues with no comments](https://github.com/nodeschool/discussions/issues?q=is%3Aopen+is%3Aissue+comments%3A0+): Think of an answer
 3. [Issues that are least recently updated](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+no%3Alabels): Add the `waiting-for-response` label in case its not given and ask a question in case none has been asked.
 4. [Issues that `need-some-love`](https://github.com/nodeschool/discussions/issues?q=is%3Aopen+is%3Aissue+label%3Aneeds-some-love): Try to think how to resolve those because they need your love!
-5. [Old Issues that are `waiting-for-feedback](https://github.com/nodeschool/discussions/issues?q=is%3Aopen+is%3Aissue+label%3Awaiting-for-feedback+sort%3Acreated-asc) Close them and mark as `seems-self-resolved` if they are more than a month old
+5. [Old Issues that are `waiting-for-feedback`](https://github.com/nodeschool/discussions/issues?q=is%3Aopen+is%3Aissue+label%3Awaiting-for-feedback+sort%3Acreated-asc) Close them and mark as `seems-self-resolved` if they are more than a month old
 
 ## Close issues
 
