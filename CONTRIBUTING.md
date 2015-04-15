@@ -1,5 +1,7 @@
+Search before you ask! Someone else has probably asked your question already. [Here is a search example](https://github.com/nodeschool/discussions/issues?utf8=%E2%9C%93&q=learnyounode)
+
 <sub>
-<b>TOC</b><br/>
+<b>Table of Contents</b><br/>
 <b><a href="#when-you-have-a-problem">When you have a problem</a><br/></b>
 &nbsp;<b><a href="#in-general">In general</a>:</b> <a href="#1---be-nice">1 - Be nice</a>, <a href="#2---be-public">2 - Be public</a>, <a href="#3---be-patient">3 - Be patient</a>, <a href="#4---non-english-is-okay">4 - Non-English is okay</a><br/>
 &nbsp;<b><a href="#suggestions">Suggestions</a>:</b> <a href="#check-your-installation">Check your installation</a>, <a href="#provide-full-command-output">Provide full command output</a>, <a href="#use-markdown">Use markdown</a>, <a href="#say-thanks">Say thanks!</a>, <a href="#close-your-issue">Close your issue</a>, <a href="#bikeshedding">Bikeshedding</a><br/>
