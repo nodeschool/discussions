@@ -99,7 +99,7 @@ Many questions are similar. If you can link to other issues or web content that 
 
 ## End with a question
 
-If you add a question at the end it puts the ball back to the inital questionee and indicates that you think that this comment should fix the issue of the person. i.e.:
+If you add a question at the end it puts the ball back to the initial questionee and indicates that you think that this comment should fix the issue of the person. i.e.:
 
  - Could you try that?
  - Does that help you?
