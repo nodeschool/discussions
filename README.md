@@ -68,20 +68,26 @@ Its okay to [bikeshed](http://en.wiktionary.org/wiki/bikeshedding) issues but if
 
 # About Labels
 
-Only [owners](https://github.com/orgs/nodeschool/teams/owners) can add labels to the dicussions issues. We added a lot of labels that makes it easier for contributors to understand the content of an issue. Here is their intended meaning:
+Only [owners](https://github.com/orgs/nodeschool/teams/owners) can add labels to the dicussions issues. We added a lot of labels that makes it easier for contributors to understand the content of an issue. There are labels that correspond to each nodeschool adventure, as well as some others, here are their intended meanings:
 
 | Label | Meaning |
 | ----- | ------- |
 | [bikeshedding](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Abikeshedding) | This issue is kept open in case someone wants to jump in. It should be updated every now and then (~14days). |
+| [chapter request](https://github.com/nodeschool/discussions/labels/chapter-request) | This label is for issues that are chapter requests. |
 | [contains hints for improvements](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Acontains-hint-for-improvement) | This contains hints on how a workshopper/tutorial/website etc. can be improved. The issue should be closed when the improvement was added to the content in question as a [PR](https://help.github.com/articles/using-pull-requests/) or issue. |
+| [discussion thread](https://github.com/nodeschool/discussions/labels/discussion%20thread) | This label is for threads that discuss other nodeschool related business. |
 | [general node.js](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Ageneral-node.js) | This is a question not specific to a content in this repository but rather to node.js in general. |
 | [installation](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Ainstallation) | This is an issue with the installation of node or a workshopper. |
 | [mac](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Amac) | This is an issue specific to computers with Mac OS X. |
+| [meta](https://github.com/nodeschool/discussions/labels/meta) | For issues that have to do with the running of nodeschool. |
+| [migrated](https://github.com/nodeschool/discussions/labels/migrated) | For issues that have been migrated to another relevant repository. |
 | [needs some love](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-some-love+) | This issue is not simple to answer or process. More effort than average needs to be put into this issue and it needs the love and support of the greater community. | 
 | [probably self resolved](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aclosed+label%3Aprobably-self-resolved) | This label is for the case that the person that asked the question has not answered for a longer period of time (~14 days). It should be used by the person who closes an inactive thread to show that she/he thinks that the user probably resolved this issue himself. Usually only closed issues should have this label. |
-| [seems resolved](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aclosed+label%3Aseems-resolved) | This label is to indicate that the issue seems resolved but the user forgot to close the issue. Usually only closed issues should have this label. |
 | [question](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+label%3Aquestion+is%3Aopen) | This issue contains a question that is not a problem. |
+| [seems resolved](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aclosed+label%3Aseems-resolved) | This label is to indicate that the issue seems resolved but the user forgot to close the issue. Usually only closed issues should have this label. |
 | [waiting for feedback](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback) | This label is to remember that the issue has been answered but is waiting on additional information or more response. |
+| [windows](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Awindows) | This is an issue specific to computers running Windows. |
+
 
 If you want to add labels to issues, don't be afraid to ask for permissions. Its a github restriction that only owners can add labels.
 
