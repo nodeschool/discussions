@@ -36,7 +36,7 @@ It may take a day or two for people to respond here. Please don't send multiple 
 
 ### 4 - Non-English is okay!
 
-If you can't read or write english well its better to write additionally your question in your native language. There are many people on this site and maybe people can help you in your mother-tongue.
+If you can't read or write english well its better to write additionally your question in your native language. There are many people on this site and maybe people can help you in your mother-tongue. It may take slightly longer for somebody to reply to your question if it's not in English, though.
 
 ## Suggestions
 
@@ -88,14 +88,11 @@ Only [owners](https://github.com/orgs/nodeschool/teams/owners) can add labels to
 | [waiting for feedback](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Awaiting-for-feedback) | This label is to remember that the issue has been answered but is waiting on additional information or more response. |
 | [windows](https://github.com/nodeschool/discussions/issues?q=is%3Aissue+is%3Aopen+label%3Awindows) | This is an issue specific to computers running Windows. |
 
-
-If you want to add labels to issues, don't be afraid to ask for permissions. Its a github restriction that only owners can add labels.
-
-If you have an issue that doesn't match a label, feel free to add a label and describe it here.
+If you have an issue that doesn't match a label, feel free to open an issue suggesting new labels!
 
 # Answering Issues
 
-Owner or not: If you have an answer to a question please don't hesitate to add a comment. There are people who answer issues regularily but those are also volunteers and also only try to do their best.
+If you have an answer to a question please don't hesitate to add a comment, even if you're never answered one before! There are people who answer issues regularily but those are also volunteers and also only try to do their best.
 
 It is not necessary to follow this but there are some things that we found useful to keep in mind:
 
