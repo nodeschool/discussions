@@ -5,6 +5,8 @@ discussions
 
 need help? or just wanna ask a question? [open an issue](https://github.com/nodeschool/discussions/issues) on this repo!
 
+If you're having trouble installing a workshop on Mac or Linux, check out this guide https://github.com/nodeschool/discussions/wiki/Installing-global-node-modules-(Linux-and-Mac)
+
 NodeSchool organizers can have discussions [over here](https://github.com/nodeschool/organizers). If you want to create your own NodeSchool workshop, have a look at the [workshoppers repo](https://github.com/nodeschool/workshoppers).
 
 <sub>
