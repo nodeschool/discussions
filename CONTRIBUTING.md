@@ -29,6 +29,10 @@ It may take a day or two for people to respond here. Please don't send multiple 
 
 If you can't read or write english well its better to write additionally your question in your native language. There are many people on this site and maybe people can help you in your mother-tongue.
 
+### 5 - Be Respectful
+
+All of this is done by volunteers so please be respectful to them. It is important to repect each other and be polite.
+
 ## Suggestions
 
 ### Check your installation
